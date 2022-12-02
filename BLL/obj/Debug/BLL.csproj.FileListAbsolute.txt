@@ -1,0 +1,35 @@
+G:\LUG2022\Universidad-LUG\BLL\bin\Debug\BLL.dll
+G:\LUG2022\Universidad-LUG\BLL\bin\Debug\BLL.pdb
+G:\LUG2022\Universidad-LUG\BLL\bin\Debug\BE.dll
+G:\LUG2022\Universidad-LUG\BLL\bin\Debug\DAL.dll
+G:\LUG2022\Universidad-LUG\BLL\bin\Debug\BE.pdb
+G:\LUG2022\Universidad-LUG\BLL\bin\Debug\DAL.pdb
+G:\LUG2022\Universidad-LUG\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\LUG2022\Universidad-LUG\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\LUG2022\Universidad-LUG\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\LUG2022\Universidad-LUG\BLL\obj\Debug\BLL.dll
+G:\LUG2022\Universidad-LUG\BLL\obj\Debug\BLL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\BLL\bin\Debug\BLL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\BLL\bin\Debug\BLL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\BLL\bin\Debug\BE.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\BLL\bin\Debug\DAL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\BLL\bin\Debug\BE.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\BLL\bin\Debug\DAL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\BLL\obj\Debug\BLL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\BLL\obj\Debug\BLL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\bin\Debug\BLL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\bin\Debug\BLL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\bin\Debug\BE.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\bin\Debug\DAL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\bin\Debug\SqlHelper.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\bin\Debug\BE.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\bin\Debug\DAL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\bin\Debug\SqlHelper.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\obj\Debug\BLL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\BLL\obj\Debug\BLL.pdb

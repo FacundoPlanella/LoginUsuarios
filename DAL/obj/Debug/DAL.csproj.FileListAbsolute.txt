@@ -1,0 +1,29 @@
+G:\LUG2022\Universidad-LUG\DAL\bin\Debug\DAL.dll
+G:\LUG2022\Universidad-LUG\DAL\bin\Debug\DAL.pdb
+G:\LUG2022\Universidad-LUG\DAL\bin\Debug\BE.dll
+G:\LUG2022\Universidad-LUG\DAL\bin\Debug\BE.pdb
+G:\LUG2022\Universidad-LUG\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\LUG2022\Universidad-LUG\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\LUG2022\Universidad-LUG\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\LUG2022\Universidad-LUG\DAL\obj\Debug\DAL.dll
+G:\LUG2022\Universidad-LUG\DAL\obj\Debug\DAL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\DAL\bin\Debug\DAL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\DAL\bin\Debug\DAL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\DAL\bin\Debug\BE.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\DAL\bin\Debug\BE.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\DAL\obj\Debug\DAL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\DAL\obj\Debug\DAL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\DAL\bin\Debug\DAL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\DAL\bin\Debug\DAL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\DAL\bin\Debug\BE.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\DAL\bin\Debug\SqlHelper.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\DAL\bin\Debug\BE.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\DAL\bin\Debug\SqlHelper.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\DAL\obj\Debug\DAL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\DAL\obj\Debug\DAL.pdb

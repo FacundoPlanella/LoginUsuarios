@@ -1,0 +1,51 @@
+G:\LUG2022\Universidad-LUG\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+G:\LUG2022\Universidad-LUG\UI\obj\Debug\UI.Form1.resources
+G:\LUG2022\Universidad-LUG\UI\obj\Debug\UI.Login.resources
+G:\LUG2022\Universidad-LUG\UI\obj\Debug\UI.Main.resources
+G:\LUG2022\Universidad-LUG\UI\obj\Debug\UI.Properties.Resources.resources
+G:\LUG2022\Universidad-LUG\UI\obj\Debug\UI.Usuarios.resources
+G:\LUG2022\Universidad-LUG\UI\obj\Debug\UI.csproj.GenerateResource.cache
+G:\LUG2022\Universidad-LUG\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+G:\LUG2022\Universidad-LUG\UI\obj\Debug\UI.MainForm.resources
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\obj\Debug\UI.Main.resources
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\obj\Debug\UI.Usuarios.resources
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\bin\Debug\UI.exe.config
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\bin\Debug\UI.exe
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\bin\Debug\UI.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\bin\Debug\BE.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\bin\Debug\BLL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\bin\Debug\DAL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\bin\Debug\BE.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\bin\Debug\BLL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\bin\Debug\DAL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\obj\Debug\UI.Form1.resources
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\obj\Debug\UI.exe
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\Universidad-LUG\Universidad-LUG\UI\obj\Debug\UI.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\bin\Debug\UI.exe.config
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\bin\Debug\UI.exe
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\bin\Debug\UI.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\bin\Debug\BE.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\bin\Debug\BLL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\bin\Debug\DAL.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\bin\Debug\SqlHelper.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\bin\Debug\BE.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\bin\Debug\BLL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\bin\Debug\DAL.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\bin\Debug\SqlHelper.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\obj\Debug\UI.Form1.resources
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\obj\Debug\UI.Main.resources
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\obj\Debug\UI.Usuarios.resources
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\obj\Debug\UI.exe
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\UI\obj\Debug\UI.pdb

@@ -1,0 +1,9 @@
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\SqlHelper\bin\Debug\SqlHelper.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\SqlHelper\bin\Debug\SqlHelper.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\SqlHelper\obj\Debug\Infractuctura.csproj.AssemblyReference.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\SqlHelper\obj\Debug\Infractuctura.csproj.CoreCompileInputs.cache
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\SqlHelper\obj\Debug\SqlHelper.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\SqlHelper\obj\Debug\SqlHelper.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\SqlHelper\bin\Debug\BE.dll
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\SqlHelper\bin\Debug\BE.pdb
+C:\Users\F4{v\Desktop\app\c sharp windows form net framework\Parcial Practico II - Facundo Planella\LUG-PARCIAL-FACUNDOPLANELLA\SqlHelper\obj\Debug\Infractuctura.csproj.CopyComplete
