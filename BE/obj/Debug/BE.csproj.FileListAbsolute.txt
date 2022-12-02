@@ -1,0 +1,5 @@
+G:\LUG2022\Universidad-LUG\BE\bin\Debug\BE.dll
+G:\LUG2022\Universidad-LUG\BE\bin\Debug\BE.pdb
+G:\LUG2022\Universidad-LUG\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+G:\LUG2022\Universidad-LUG\BE\obj\Debug\BE.dll
+G:\LUG2022\Universidad-LUG\BE\obj\Debug\BE.pdb
